@@ -2,8 +2,7 @@
 
 <p align="center">
     <img src="preview.gif" width="700">
-</p>!
-
+</p>
 
 A simple Snake Game built using Python and Turtle graphics.# Snake Game
 
