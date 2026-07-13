@@ -1,5 +1,9 @@
 # Snake Game
 
+![Game Preview](preview.png)
+
+A simple Snake Game built using Python and Turtle graphics.# Snake Game
+
 A classic Snake Game built using Python's Turtle graphics module. This project was created as part of my Python learning journey.
 
 ## Features
