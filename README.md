@@ -1,7 +1,7 @@
 # Snake Game
 
 <p align="center">
-    <img src="preview.gif" width="700">
+    <img src="preview.png" width="700">
 </p>
 
 A simple Snake Game built using Python and Turtle graphics.# Snake Game
